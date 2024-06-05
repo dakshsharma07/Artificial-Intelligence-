@@ -11,10 +11,11 @@ weights.
 
 ### Files I edited
 
-NeuralNet.py: Your entire Neural Net implementation will be within this file
+NeuralNet.py: My entire Neural Net implementation will be within this file
+
 Testing.py: Helper functions for learning a neural net from data
 
-NeuralNet_report.pptx: Your answers to the analysis questions go into this file. 
+NeuralNet_report.pptx: My answers to the analysis questions go into this file. 
 
 
 
