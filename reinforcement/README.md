@@ -1,14 +1,16 @@
-# Project 3: Neural Nets
+# Project 2: Reinforcement
 
 ## Introduction
 
-In this project, I designed Pacman agents that use sensors to locate and eat invisible ghosts. You'll advance from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency.
+In this project, I implemented value iteration and Q-learning. I tested my agents first on Gridworld (from class), then applied them to a simulated robot controller (Crawler) and Pacman.
 
 ### Files I edited
 
-bustersAgents.py:	Agents for playing the Ghostbusters variant of Pacman.
+valueIterationAgents.py:	   A value iteration agent for solving known MDPs.
 
-inference.py:	Code for tracking ghosts over time using their sounds.
+qlearningAgents.py:    	Q-learning agents for Gridworld, Crawler and Pacman.
+
+analysis.py:    A file to put my answers to questions given in the project.
 
 
 
