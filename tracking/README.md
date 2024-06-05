@@ -1,20 +1,15 @@
-# Project 4: Neural Nets
+# Project 3: Ghostbusters: Tracking
 
 ## Introduction
 
-In this project, I implemented neural nets, and in particular the most common
-algorithm for learning the correct weights for a neural net from examples. Code structure was
-provided for a Perceptron and a multi layer NeuralNet class, and I was responsible for filling
-in some missing functions in each of these classes. This includes writing code for the feed
-forward processing of input, as well as the backward propagation algorithm to update network
-weights.
+In this project, I designed Pacman agents that use sensors to locate and eat invisible ghosts. You'll advance from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency.
 
 ### Files I edited
 
-NeuralNet.py: Your entire Neural Net implementation will be within this file
-Testing.py: Helper functions for learning a neural net from data
+bustersAgents.py:	Agents for playing the Ghostbusters variant of Pacman.
 
-NeuralNet_report.pptx: Your answers to the analysis questions go into this file. 
+inference.py:	Code for tracking ghosts over time using their sounds.
+
 
 
 
