@@ -9,6 +9,6 @@ The course covers intelligent search, Markov Decision Processes (MDPs), probabil
 
 **2. Reinforcement Learning:** Implementation of value iteration and Q-learning
 
-**3. Ghostbusters:** Designing Pacman agents that use sensors to locate and eat invisibile ghosts using inference, belief distributions, and greedy strategy.
+**3. Tracking:** Designing Pacman agents that use sensors to locate and eat invisibile ghosts using inference, belief distributions, and greedy strategy.
 
 **4. Neural Nets:** Implemenation of a multi layer neural net, including feed forward and backward propagation functions.
