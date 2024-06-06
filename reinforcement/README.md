@@ -10,9 +10,17 @@ In this project, I implemented value iteration and Q-learning. I tested my agent
 
 **2.** Value Iteration
 
-**3.** Dynamic Programming
+**3.** Q-Learning
 
-**4.** Policy Extraction
+**4.** Dynamic Programming
+
+**5.** Policy Extraction and Derivation
+
+**6.** Bellman Equation
+
+**7.** Discount Factor/Learning Rate
+
+**8.** Epsilon-Greedy Strategy
 
 ### Files I edited
 
