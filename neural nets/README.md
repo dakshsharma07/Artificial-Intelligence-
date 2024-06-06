@@ -9,6 +9,15 @@ in some missing functions in each of these classes. This includes writing code f
 forward processing of input, as well as the backward propagation algorithm to update network
 weights.
 
+### Concepts Explored
+
+**1.** Data Normalization
+**2.** One-Hot Encoding
+**3.** Train-Test Split
+**4.** Flexible Neural Network Architecture
+**5.** Modular Design
+
+
 ### Files I edited
 
 NeuralNet.py: My entire Neural Net implementation will be within this file
