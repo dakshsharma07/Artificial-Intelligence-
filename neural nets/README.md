@@ -12,9 +12,13 @@ weights.
 ### Concepts Explored
 
 **1.** Data Normalization
+
 **2.** One-Hot Encoding
+
 **3.** Train-Test Split
+
 **4.** Flexible Neural Network Architecture
+
 **5.** Modular Design
 
 
