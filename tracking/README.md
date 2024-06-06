@@ -14,7 +14,11 @@ In this project, I designed Pacman agents that use sensors to locate and eat inv
 
 **4.** Agent Initialization and Registration
 
-**5.**
+**5.** Particle Filtering
+
+**6.** Observation Probability
+
+**7.** Discrete Distribution Handling
 
 ### Files I edited
 
