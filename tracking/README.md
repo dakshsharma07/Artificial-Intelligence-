@@ -1,4 +1,4 @@
-# Project 3: Ghostbusters: Tracking
+# Project 3: Ghostbusters Tracking
 
 ## Introduction
 
